@@ -2,11 +2,7 @@
 title: Docker Compose部署nginx+springBoot
 date: 2018-09-22 23:59:47
 urlname: docker-compose
-tags:
-  - Docker Compose
-  - nginx
-  - java
-  - SpringBoot
+tags: [Docker Compose,nginx,java,SpringBoot]
 cover: http://heimamba.com/static/2cc27fb6da554a7e81c6979ebe7e81ae.jpg
 ---
 
